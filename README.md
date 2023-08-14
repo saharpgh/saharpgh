@@ -19,3 +19,6 @@
 <p><img align="center" width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=saharpgh&show_icons=true&locale=en&layout=compact&theme=dark" alt="saharpgh" /></p>
 
 <p><img align="center" width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=saharpgh&theme=dark" alt="saharpgh" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saharpgh&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="saharpgh" /> </p>
+
